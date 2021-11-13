@@ -7,5 +7,6 @@
 </head>
 <body>
     <h2>This is product pages</h2>
+    <h3>{{ $products }}</h3>
 </body>
 </html>
